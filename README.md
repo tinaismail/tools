@@ -6,6 +6,7 @@
 
 # General Dev Resources
 - [Dev Resources](https://webdecoded.notion.site/Dev-Resources-40656a79e51e4dd6ad8988515de19e57)
+- [Arduino Web Server HTML Script](arduinofy.py)
 
 # Cyber
 - [Cyber Chef](https://gchq.github.io/CyberChef/)
