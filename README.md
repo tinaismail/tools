@@ -13,3 +13,4 @@
 - [QR Code Generation](https://zxing.appspot.com/generator)
 - [JSON Web Tokens](https://jwt.io/)
 - [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+- [Email Enumeration Bruteforce Python Script](enumeration-bruteforce.py)
