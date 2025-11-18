@@ -10,7 +10,16 @@
 
 # Cyber
 - [Cyber Chef](https://gchq.github.io/CyberChef/)
+- [GTFO Bins](https://gtfobins.github.io)
+- [ExploitDB](https://www.exploit-db.com)
+- [CVEDetails](https://www.cvedetails.com)
 - [QR Code Generation](https://zxing.appspot.com/generator)
 - [JSON Web Tokens](https://jwt.io/)
 - [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 - [Email Enumeration Bruteforce Python Script](enumeration-bruteforce.py)
+- [Norton Safeweb](https://safeweb.norton.com/)
+- [whatsmyname - OSINT Username Enumeration Lookup](https://whatsmyname.app/)
+- [hashcat - Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes)
+- [crackstation - online password hash cracker](https://crackstation.net/)
+- [fotoforensics - online image forensics tool](https://fotoforensics.com/)
+- [aperisolve - image analysis](https://www.aperisolve.com/)
