@@ -4,9 +4,10 @@
 - [Discover front-end designs](https://codepen.io/whosajid/pen/dyBPWro)
 - [CSS Animations](https://animate.style/)
 
-# General Dev Resources
+# General Resources
 - [Dev Resources](https://webdecoded.notion.site/Dev-Resources-40656a79e51e4dd6ad8988515de19e57)
 - [Arduino Web Server HTML Script](arduinofy.py)
+- [PDF Toolkit](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
 
 # Cyber
 - [Cyber Chef](https://gchq.github.io/CyberChef/)
