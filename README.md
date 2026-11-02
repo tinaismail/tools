@@ -25,3 +25,4 @@
 - [fotoforensics - online image forensics tool](https://fotoforensics.com/)
 - [aperisolve - image analysis](https://www.aperisolve.com/)
 - [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.ASP)
+- [VirusTotal - Analyse suspicious files, domains, IPs and URLs](https://www.virustotal.com/gui/home/upload) 
